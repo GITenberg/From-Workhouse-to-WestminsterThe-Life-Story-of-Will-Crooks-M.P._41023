@@ -1,0 +1,37 @@
+_repo: From-Workhouse-to-WestminsterThe-Life-Story-of-Will-Crooks-M.P._41023
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: archival
+  image_path: 41023-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haw, George
+    gutenberg_agent_id: '40937'
+    url: http://www.gutenberg.org/2009/agents/40937
+description: ''
+gutenberg_issued: '2012-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crooks, William, 1852-1921'
+- !lcsh 'Legislators -- Great Britain -- Biography'
+- !lcc 'DA'
+- !lcsh 'Social reformers -- Great Britain -- Biography'
+title: 'From Workhouse to Westminster: The Life Story of Will Crooks, M.P.'
+url: http://www.gutenberg.org/ebooks/41023
